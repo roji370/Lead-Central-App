@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "675443914156",
+    "project_id": "leadcentral-762c7",
+    "storage_bucket": "leadcentral-762c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675443914156:android:c2a92f06f3d9a7bb043609",
+        "android_client_info": {
+          "package_name": "com.example.leadcentral"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675443914156-u92hu96j6t8iu51m9ui1dqq6g725eo9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoZ2apQh_IYL8l4DQMANpnQamFPL0Kw9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675443914156-u92hu96j6t8iu51m9ui1dqq6g725eo9q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
